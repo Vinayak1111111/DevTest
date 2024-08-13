@@ -129,7 +129,7 @@ EMAIL_HOST = 'smtp.gmail.com'  # You can change this if you're using another SMT
 EMAIL_PORT = 587  # Port for TLS
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False  # Set to True if using SSL (and change the port to 465)
-EMAIL_HOST_USER = 'strengervinay@gmail.com'
-EMAIL_HOST_PASSWORD = 'Vinay@strenger'
+EMAIL_HOST_USER = 'your-emai'
+EMAIL_HOST_PASSWORD = 'your_password'
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
